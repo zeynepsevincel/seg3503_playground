@@ -1,8 +1,13 @@
-# seg3503_playground
+## Exercise 1
+Below is the table of the test cases' results for the registration program
+Test Case  | Expected Results               | Actual Results                | Verdict
+---------- | ------------------------------ | ----------------------------- | ----------
+1          |                                |                               | 
+2          |                                |                               | 
+3          |                                |                               | 
+4          |                                |                               | 
+5          |                                |                               | 
+6          |                                |                               | 
+7          |                                |                               | 
+8          |                                |                               | 
 
-| Outline | Value |
-| --- | --- |
-| Course | SEG 3503 |
-| Date | Summer 2023 |
-| Professor | Mohamed Ali Ibrahim |
-| TA | Joseph Abonasara |
