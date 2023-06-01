@@ -37,3 +37,17 @@ With exceptions
 
 <img width="483" alt="Screenshot 2023-05-31 at 9 08 42 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/bb3325b5-ac76-4b81-89ea-729fa5abd07d">
 
+
+Parameterized test values for test cases that Do result in an exception
+
+<img width="877" alt="Screenshot 2023-05-31 at 9 26 38 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/802c58d4-3c43-46f7-b7ee-96df8053e21f">
+
+
+Parameterized test values for test cases that run ok and return a date
+
+
+<img width="672" alt="Screenshot 2023-05-31 at 9 25 12 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/db03cd68-8664-408a-8923-38344a6ccf68">
+
+
+
+
