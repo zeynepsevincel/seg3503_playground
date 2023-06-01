@@ -5,13 +5,11 @@ import org.junit.jupiter.api.Test;
 class DateTest {
   private DateNextDateOkTest a = new DateNextDateOkTest();
   private DateNextDateExceptionTest b = new DateNextDateExceptionTest();
-
   @Test
   void nextDate_sample() {
     Date d = new Date(2020,5,3);
     assertEquals(new Date(2020,5,4), d.nextDate());
   }
-
   @Test
   void testDate1() {
     Date d = new Date(1700, 6, 20);
