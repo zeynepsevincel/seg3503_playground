@@ -25,8 +25,12 @@ Test Run
 <img width="1220" alt="Screenshot 2023-05-25 at 4 41 34 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/b427b1fd-f5ed-46a8-9310-98abd732a966">
 
 Without exceptions
+
+
 <img width="483" alt="Screenshot 2023-05-31 at 9 08 15 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/758c6acd-8967-461c-8ceb-676ebf25f980">
 
 With exceptions
+
+
 <img width="483" alt="Screenshot 2023-05-31 at 9 08 42 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/bb3325b5-ac76-4b81-89ea-729fa5abd07d">
 
