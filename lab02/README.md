@@ -13,11 +13,20 @@
 | 6 | success | success <br> <img width="392" alt="Screenshot 2023-05-25 at 4 51 54 PM" src="https://github.com/DemianOportus/seg3503_playground/assets/90730285/fd203abd-f0a0-48b2-8517-161eacd9de5c"> <img width="373" alt="Screenshot 2023-05-25 at 4 52 10 PM" src="https://github.com/DemianOportus/seg3503_playground/assets/90730285/0288ed11-0dba-4c99-b9e6-3747624ae427"> | Passed |
 
 
-
-# Exercise 2
-
 # JUNIT PARAMETERIZED RUNNER
 
 Output from running the tests
 
-<img width="1230" alt="Screenshot 2023-05-31 at 8 46 26 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/ee17786b-5a56-4913-b355-f000cbec95ac">
+<img width="1220" alt="Screenshot 2023-05-25 at 4 41 34 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/6ff985dc-ab33-4862-a258-28c8ae847aa0">
+
+# Exercise 2
+
+Test Run 
+<img width="1220" alt="Screenshot 2023-05-25 at 4 41 34 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/b427b1fd-f5ed-46a8-9310-98abd732a966">
+
+Without exceptions
+<img width="483" alt="Screenshot 2023-05-31 at 9 08 15 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/758c6acd-8967-461c-8ceb-676ebf25f980">
+
+With exceptions
+<img width="483" alt="Screenshot 2023-05-31 at 9 08 42 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/bb3325b5-ac76-4b81-89ea-729fa5abd07d">
+
