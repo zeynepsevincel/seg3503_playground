@@ -16,6 +16,8 @@
 
 # Exercise 2
 
+# JUNIT PARAMETERIZED RUNNER
+
 Output from running the tests
 
 <img width="1230" alt="Screenshot 2023-05-31 at 8 46 26 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/ee17786b-5a56-4913-b355-f000cbec95ac">
