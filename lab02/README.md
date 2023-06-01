@@ -22,7 +22,10 @@ Output from running the tests
 # Exercise 2
 
 Test Run 
-<img width="1220" alt="Screenshot 2023-05-25 at 4 41 34 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/b427b1fd-f5ed-46a8-9310-98abd732a966">
+
+
+<img width="1230" alt="Screenshot 2023-05-31 at 8 46 26 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/981f97c6-1066-4e15-bc12-23346935d269">
+
 
 Without exceptions
 
