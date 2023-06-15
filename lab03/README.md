@@ -10,4 +10,5 @@ previous results
 Improved results
 
 
-<img width="1743" alt="Screenshot 2023-06-07 at 10 38 48 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/88214346-cad1-4ae0-9135-dcde1bd9f9a9">
+
+<img width="1058" alt="Screenshot 2023-06-15 at 4 45 38 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/b71e59dc-9e44-4f59-8803-a0d6bc737d8e">
