@@ -1,3 +1,6 @@
+Zeynep Sevincel #300217661
+Demian Oportus #300265844
+
 # Part 1: Grades
 
 
