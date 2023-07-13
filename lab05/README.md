@@ -18,3 +18,24 @@ After fixing the code, the calculator worked. Here are some tests we ran:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Part 2: Twitter
+
+when we run the code in terminal with the given running instructions we get: 
+
+Test run finished after 4103 ms
+[         3 containers found      ]
+[         0 containers skipped    ]
+[         3 containers started    ]
+[         0 containers aborted    ]
+[         3 containers successful ]
+[         0 containers failed     ]
+[         7 tests found           ]
+[         0 tests skipped         ]
+[         7 tests started         ]
+[         0 tests aborted         ]
+[         1 tests successful      ]
+[         6 tests failed          ]
+
+However, when we run it with IntelliJ run command, all tests are passing as it can be seen here:
+
+<img width="634" alt="Screenshot 2023-07-12 at 11 32 39 PM" src="https://github.com/zeynepsevincel/seg3503_playground/assets/90730475/a99f0e27-44ab-43fa-a1db-4ad0b6c14c42">
+
